@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Models (too large for GitHub)
+*.h5
+*.keras
+
+# Dataset (VERY IMPORTANT)
+train/
+val/
+CROP DATASET/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
